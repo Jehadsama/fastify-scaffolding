@@ -1,0 +1,2 @@
+# fastify-scaffolding
+fastify scaffolding
